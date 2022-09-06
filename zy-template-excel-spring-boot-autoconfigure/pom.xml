@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>zy-template-excel-spring-boot</artifactId>
-        <groupId>pers.lzy</groupId>
+        <groupId>com.github.immort-zyliu</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -33,7 +33,7 @@
 
         <!-- zy-immort template excel -->
         <dependency>
-            <groupId>pers.lzy</groupId>
+            <groupId>com.github.immort-zyliu</groupId>
             <artifactId>zy-template-excel</artifactId>
         </dependency>
     </dependencies>
