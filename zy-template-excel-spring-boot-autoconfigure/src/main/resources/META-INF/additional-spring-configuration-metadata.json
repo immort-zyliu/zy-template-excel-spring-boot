@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "defaultValue": true,
+      "name": "zy.template.excel.enable",
+      "description": "Set whether enable the TemplateExcelFiller.",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
