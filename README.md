@@ -7,7 +7,7 @@
 - 引入pom
 ```xml
 <dependency>
-    <groupId>com.github.immort-zyliu</groupId>
+    <groupId>io.github.immort-zyliu</groupId>
     <artifactId>zy-template-excel-spring-boot-starter</artifactId>
     <version>${zy-template-excel-boot.version}</version>
 </dependency>
