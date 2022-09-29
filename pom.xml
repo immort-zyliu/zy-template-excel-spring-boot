@@ -36,6 +36,14 @@
     </licenses>
 
     <!-- scm -->
+    <scm>
+        <!-- git项目地址可以用SSH  也可以用 HTTPS的-->
+        <connection>scm:git:https://github.com/immort-zyliu/zy-template-excel-spring-boot.git</connection>
+        <!-- git项目地址可以用SSH  也可以用 HTTPS的-->
+        <developerConnection>scm:git:https://github.com/immort-zyliu/zy-template-excel-spring-boot.git</developerConnection>
+        <!-- git项目浏览器里的地址-->
+        <url>https://github.com/immort-zyliu/zy-template-excel-spring-boot/tree/main</url>
+    </scm>
 
 
     <properties>
